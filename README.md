@@ -19,7 +19,7 @@ public class Main {
             sifre = input.nextLine();
 
 
-            if (ad.equals("deniz") && sifre.equals("2404")) {
+            if (ad.equals("deniz") && sifre.equals("1234")) {
                 System.out.println("Giriş Yaptınız, İşleminizi Seçin ");
                 int islem;
                 do {
